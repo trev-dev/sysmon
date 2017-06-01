@@ -1,0 +1,14 @@
+{
+  "name": "sysmon",
+  "version": "1.0.0",
+  "description": "Electron Based System Monitor",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "trevDev",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.10"
+  }
+}
